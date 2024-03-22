@@ -1,6 +1,7 @@
 # Comet Client
 scripts for roblox
-# Script We Modify
+# Loader
+script we modify's 
 loader:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
