@@ -12,3 +12,11 @@ current loader:
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/joeengo/engocheat/main/lua/src/loader.lua', true))()
 ```
+# Development
+```
+Developers:
+- David
+Private Users:
+- David
+Remake of lunar client, thus this client has been running for 2 years.
+```
