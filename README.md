@@ -1,8 +1,9 @@
 # Comet Client
-**steroids for roblox, and modification...**
+**steroids for roblox, and modification...
+in development
+**
 
 **.gg/EKFuTv6k**
-*in development...*
 
 # Script We Modify
 loader:
